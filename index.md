@@ -4,8 +4,9 @@
 ### Revisioni:
  * Versione iniziale: 17/12/2018
 
-## Manuale lato Cittadino:</span></h2>
-### Cos'è:
+## Manuale lato Cittadino:
+
+### Cos'è la Stanza del Cittadino:
 La SDC è un sistema che permette ai cittadini di usufruire di alcuni servizi messi a disposizione da un comune che ha aderito. Ogni comune che aderisce alla SDC è un ambiente isolato e autonomo.
 La SDC permette un uso molto limitato agli utenti anonimi. La maggior parte delle funzionalità è riservata agli utenti autenticati
 
@@ -45,8 +46,7 @@ La descrizione del servizio ( indicata col numero 1 nell'immagine ) permette di 
 
 
 
-<p class="c1"><span class="c0">I link dell'elenco servizi simili ( indicati col numero 2 nell'immagine ) portano ai servizi corrispondenti, rendendo pi&ugrave; agevole la navigazione e la scoperta dei servizi messi a disposizione</span>
-</p>
+I link dell'elenco servizi simili ( indicati col numero 2 nell'immagine ) portano ai servizi corrispondenti, rendendo pi&ugrave; agevole la navigazione e la scoperta dei servizi messi a disposizione
 
 
 Il pulsante per accedere al servizio ( indicati col numero 3 nell'immagine ) permette l'accesso al servizio vero e proprio, previa autenticazione.
@@ -55,29 +55,27 @@ Tutte le altre funzionalità sono disponibili solo previa autenticazione
 
 
 
-<h3 class="c7" id="h.xtmwlfwdbt2s"><span class="c8">Accettazione delle condizioni di utilizzo</span></h3>
+#### Accettazione delle condizioni di utilizzo
 Al primo accesso ad un servizio, dopo essersi autenticati, si arriva su una pagina che richiede obbligatoriamente di accettare le condizioni di utilizzo del sito
 
 ![image12](images/image12.png)
 Questa pagina viene mostrata in due occasioni:
 
-<ul class="c9 lst-kix_6cmzcxfs05nd-0 start">
-    <li class="c1 c4"><span class="c0">Al primo utilizzo di un qualsiasi servizio</span></li>
-    <li class="c1 c4"><span class="c0">Quando le condizioni di utilizzo del sito sono cambiate</span></li>
-</ul>
+* Al primo utilizzo di un qualsiasi servizio
+* Quando le condizioni di utilizzo del sito sono cambiate
+
 Basta accettare le condizioni una volta. Il sistema salva data e ora dell'accettazione delle condizioni e non chiede pi&ugrave; conferma fin quando non ce ne dovessero essere di nuove.
-
-
 
 Nella pagina di profilo è possibile consultare le condizioni di utilizzo che si sono accettate, e quando lo si è fatto.
 
+#### Completamento dati di profilo
 
+Al primo accesso dopo l'autenticazione con SPID il sito richiede di completare i dati del proprio profilo. Da SPID vengono recuperati pochi dati, per quelli mancanti serve un inserimento manuale
 
-<h3 class="c7" id="h.ay8rwcqrrxiz"><span class="c8">Completamento dati di profilo</span></h3>
-<p class="c1"><span class="c0">Al primo accesso dopo l'autenticazione con SPID il sito richiede di completare i dati del proprio profilo. Da SPID vengono recuperati pochi dati, per quelli mancanti serve un inserimento manuale</span>
-</p>
 ![image35](images/image35.png)
-<h3 class="c7" id="h.97g66bnefxn"><span class="c8">Parte accessibile previa autenticazione</span></h3>
+
+#### Parte accessibile previa autenticazione
+
 La SDC espone la maggior parte delle funzionalità previa autenticazione
 
 Oltre ai servizi sono disponibili delle aree personali dove poter verificare &nbsp;lo stato delle proprie pratiche, i propri allegati, i propri dati personali e un insieme di avvisi e scadenze di interesse
@@ -113,8 +111,6 @@ In questa sezione vengono mostrati gli allegati caricati nel sistema.
 
 Per ognuno viene fornito un tasto che ne permette il download, il nome del file e la descrizione.
 
-
-
 Se il file è stato allegato ad una pratica inviata alla protocollazione viene mostrata anche la/le pratica/pratiche relative e il loro stato. Il nome della pratica è un link.
 
 Seguendo quel link si arriva alla visualizzazione di dettaglio della singola pratica
@@ -145,8 +141,8 @@ Nella parte bassa della schermata sono presentati:
 I moduli compilati si presentano con questo aspetto:
 
 ![image2](images/image2.png)
-#### Comunicazioni provenienti dalla Stanza del cittadino:
-Per ogni cambio di stato rilevante la Stanza del cittadino invia un messaggio via email al cittadino interessato (se è disponibile un recapito email valido). La comunicazione ha questo formato:
+#### Comunicazioni provenienti dalla Stanza del Cittadino:
+Per ogni cambio di stato rilevante la Stanza del Cittadino invia un messaggio via email al cittadino interessato (se è disponibile un recapito email valido). La comunicazione ha questo formato:
 
 
 ![image13](images/image13.png)
@@ -319,7 +315,7 @@ Prendendo in carico una pratica viene inviata una email automatica al cittadino,
 La comunicazione che arriva è simile a questa:
 
 ![image13](images/image13.png)
-La stanza del cittadino non comunica esplicitamente i dati dell'operatore che compie un'operazione
+La Stanza del Cittadino non comunica esplicitamente i dati dell'operatore che compie un'operazione
 ### Dettaglio pratica:
 
 
