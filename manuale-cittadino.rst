@@ -1,38 +1,4 @@
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-| `Manuale per il cittadino <#h5f667d540801b12113687151722f7>`_
-|     `Seleziona una Stanza del Cittadino <#h51f23337b523c347794c464f6a611d>`_
-|     `Consulta l’elenco dei servizi <#h1f2c644a3e59c4d197d167e4b707158>`_
-|     `Autènticati <#h4671d2950371a24167b355f4a2d2d2d>`_
-|     `Accetta le condizioni di utilizzo <#hd77461b583232d49253b8061432716>`_
-|     `Completa i dati del tuo profilo <#h56441e4f5a4571532528375b5c654c50>`_
-|     `Compila una pratica <#h246782c72670fd5564117c236d7d>`_
-|     `Step comuni a tutti i servizi con immissione di dati <#hf6458304d1632ee657418137b495>`_
-|         `Accetta le istruzioni riguardanti la procedura <#h3225225654171d39194a1d602d257d11>`_
-|         `Verifica i tuoi dati personali <#h2c25461063e22a4b2a43254a1c544d>`_
-|         `Verifica i dati relativi alla compilazione <#h3c314758f6f1d614f4ce4254337e52>`_
-|     `Accedi a “La mia stanza” <#h3b6202d704358314e4e167c2c6f2a2f>`_
-|     `Visualizza i tuoi allegati <#h205c6e77381b345c75671875531e6278>`_
-|     `Dettaglio pratica <#h4721565c37b3f233c63a773e6d57>`_
-|         `Esempio di modulo compilato <#h7a6b767a413d13121581f4c7b5d7713>`_
-|         `Comunicazioni provenienti dalla Stanza del cittadino <#h6a4a4842353c38666e7c7f7d75c4b4c>`_
-|     `Visualizza le tue pratiche <#h2f664347879615f2a377d271a6f1f>`_
-|     `Esci dalla sessione autenticata <#h4439704725673e685b4d322aff923>`_
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h5f667d540801b12113687151722f7:
 
 Manuale per il cittadino
